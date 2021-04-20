@@ -1,7 +1,7 @@
 # HANS WEB PAGE
 http://ehdrmfdl32.dothome.co.kr/
 
-![ezgif-7-1466e0a9c5d4](https://user-images.githubusercontent.com/81962246/115420292-fad28880-a235-11eb-86e8-acdcc0943166.gif)
+![ezgif-7-1466e0a9c5d4](https://user-images.githubusercontent.com/81962246/115420662-48e78c00-a236-11eb-8872-9d915735d26c.gif)
 
 ## 주요기능
 1. 회원가입
