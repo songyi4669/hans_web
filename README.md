@@ -1,7 +1,10 @@
 # HANS WEB PAGE
-http://ehdrmfdl32.dothome.co.kr/
 
 ![ezgif-7-1466e0a9c5d4](https://user-images.githubusercontent.com/81962246/115420662-48e78c00-a236-11eb-8872-9d915735d26c.gif)
+
+## Introduce
+- 기존 HANS 공식 페이지를 리뉴얼한 개인 프로젝트 입니다.
+- 리뉴얼 사이트 보기: http://ehdrmfdl32.dothome.co.kr/
 
 ## 주요기능
 1. 회원가입
@@ -19,4 +22,12 @@ http://ehdrmfdl32.dothome.co.kr/
 - JQuery
 - PHP
 - MySQL
+
+## 기능 상세
+- 반응형: 반응형 메인 페이지를 구현하였습니다.
+
+![rwd3](https://user-images.githubusercontent.com/81962246/115572582-01770380-a2fb-11eb-9626-afcca365c465.gif)
+
+
+- 회원가입: 
 
